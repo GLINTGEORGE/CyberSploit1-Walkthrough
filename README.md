@@ -5,7 +5,8 @@ This is a step-by-step walkthrough for the CyberSploit1 machine. It includes net
 **Tool Used**: `netdiscover`
 
 ```bash
-netdiscover
+netdiscover<img width="682" height="190" alt="2result of netdiscover" src="https://github.com/user-attachments/assets/7e3270f6-4cce-440b-bc9b-2ea89f2534b7" />
+
 ```
 
 **Identified IP:**
@@ -15,6 +16,7 @@ netdiscover
 This IP belongs to the target machine (PCS Systemtechnik GmbH).
 
 ---
+<img width="1916" height="872" alt="3 browsing ip" src="https://github.com/user-attachments/assets/e214370b-b064-411a-b91d-f10df7e082df" />
 
 ## 2. Service Enumeration
 **Tool Used**: `nmap`
